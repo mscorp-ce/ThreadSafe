@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/11/04 16:33:13.711,=rtl.dcp</Transaction>
+    <Transaction>2022/11/04 16:33:19.908,=D:\dev\projs\Unit1.pas</Transaction>
+    <Transaction>2022/11/04 17:01:19.025,D:\dev\projs\ThreadSafe\src\uResourceManagement.pas=D:\dev\projs\Unit1.pas</Transaction>
+    <Transaction>2022/11/04 17:02:26.936,D:\dev\projs\ThreadSafe\src\MSTechnologiesThreadSafePkg.dproj=D:\dev\projs\Package1.dproj</Transaction>
+    <Transaction>2022/11/05 01:42:02.256,=D:\dev\projs\ThreadSafe\src\Unit1.pas</Transaction>
+    <Transaction>2022/11/05 01:42:20.944,D:\dev\projs\ThreadSafe\src\uCall.pas=D:\dev\projs\ThreadSafe\src\Unit1.pas</Transaction>
+    <Transaction>2022/11/05 01:49:30.562,D:\dev\projs\ThreadSafe\src\MSTechnologiesThreadSafe.dproj=D:\dev\projs\ThreadSafe\src\MSTechnologiesThreadSafePkg.dproj</Transaction>
+    <Transaction>2022/11/05 05:56:56.831,D:\dev\projs\ThreadSafe\src\MSThreadSafe.dproj=D:\dev\projs\ThreadSafe\src\MSTechnologiesThreadSafe.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
